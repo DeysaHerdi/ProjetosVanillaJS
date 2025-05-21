@@ -1,1 +1,1 @@
-Projetos de Vanila Javascript \o/
+Projetos de Vanilla Javascript \o/
